@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className="min-h-screen mt-10 relative">
       <section className="">
-        <h1 className="sm:text-5xl text-right font-bold text-3xl">
+        <h1 className="sm:text-5xl text-right font-bold text-3xl pr-4">
           Unique And Authentic <br /> Vintage Designer Jewellery
         </h1>
         <div className="bg-gray-100 p-10">
@@ -16,7 +16,7 @@ const About = () => {
           <div className="max-w-6xl mx-auto z-10">
             <div className="flex flex-col gap-7 sm:flex-row sm:justify-between my-8 items-center">
               <div className="flex flex-row sm:flex-col sm:gap-5 gap-2">
-                <div className="w-48">
+                <div className="w-48 pl-2">
                   <h1 className="font-bold text-xl">
                     Using Good Quality Materials
                   </h1>
@@ -32,8 +32,8 @@ const About = () => {
                 </div>
               </div>
               <div className="flex flex-row sm:flex-col sm:gap-5 gap-2">
-                <div className="w-48">
-                  <h1 className="font-bold text-xl">Modern Fashion Design</h1>
+                <div className="w-48 pl-2">
+                  <h1 className="font-bold sm:text-xl text-lg">Modern Fashion Design</h1>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
