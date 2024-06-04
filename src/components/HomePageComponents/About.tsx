@@ -49,7 +49,7 @@ const About = () => {
               </div>
               <Image
                 src="/brushed-bomber.png"
-                alt="Image ha ustaad"
+                alt="Image here"
                 width={300}
                 height={300}
                 className="w-auto h-auto"
