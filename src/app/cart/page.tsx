@@ -28,7 +28,7 @@ const Cart = () => {
           <h1 className="font-bold text-8xl text-center">&#128717;</h1>
           <Link
             href="/products"
-            className="text-left mt-6 text-4xl text-gray-600 hover:underline"
+            className="text-left mt-6 sm:text-4xl text-2xl text-gray-600 hover:underline"
           >
             &#x2190; Go Back To Shopping
           </Link>
