@@ -5,7 +5,7 @@ const Information = () => {
     <div>
       <section className="sm:h-screen bg-slate-100 max-w-6xl mx-auto py-10 my-5">
         <div className="relative flex items-center w-10/12 mx-auto my-8">
-          <h2 className="z-0 absolute text-8xl text-slate-200">Overwiew</h2>
+          <h2 className="z-0 absolute text-8xl text-slate-200 hidden md:block">Overwiew</h2>
           <p className="z-10  text-4xl font-bold">Product Information</p>
         </div>
         <hr className="my-10" />

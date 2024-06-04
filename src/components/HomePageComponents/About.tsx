@@ -6,11 +6,11 @@ const About = () => {
   return (
     <div className="min-h-screen mt-10 relative">
       <section className="">
-        <h1 className="text-5xl text-right font-bold">
+        <h1 className="sm:text-5xl text-right font-bold text-3xl">
           Unique And Authentic <br /> Vintage Designer Jewellery
         </h1>
         <div className="bg-gray-100 p-10">
-          <h1 className="absolute z-0 w-40 text-gray-300 text-wrap text-8xl opacity-35">
+          <h1 className="absolute z-0 w-40 text-gray-300 text-wrap sm:text-8xl text-6xl opacity-35">
             Differet From Others
           </h1>
           <div className="max-w-6xl mx-auto z-10">

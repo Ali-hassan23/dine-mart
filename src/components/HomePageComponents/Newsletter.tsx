@@ -4,7 +4,7 @@ const Newsletter = () => {
   return (
     <div className="min-h-screen relative flex flex-col justify-center items-center">
       <div className="absolute align-self-middle opacity-70 text-slate-300">
-        <h1 className="font-bold text-7xl text-center sm:text-9xl">Newsletter</h1>
+        <h1 className="font-bold text-7xl text-center sm:text-9xl mt-8 md:m-0">Newsletter</h1>
       </div>
       <div className="z-10 text-center flex flex-col gap-6">
         <h1 className="text-4xl font-bold">Subscribe Our Newsletter</h1>

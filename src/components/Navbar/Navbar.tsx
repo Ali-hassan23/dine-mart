@@ -13,7 +13,7 @@ const Navbar = () => {
           alt="Dine Mart"
           width={150}
           height={150}
-          className="w-auto h-auto"
+          className="sm:w-auto sm:h-auto"
         />
       </Link>
 
