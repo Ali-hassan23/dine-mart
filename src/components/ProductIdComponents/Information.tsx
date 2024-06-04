@@ -12,7 +12,7 @@ const Information = () => {
         <div className="w-10/12 mx-auto flex flex-col gap-10">
           <div className="flex flex-row gap-8">
             <h1 className="font-bold text-xl w-1/2">PRODUCT DETAILS</h1>
-            <p className="w-1/2">
+            <p className="w-1/2 text-sm sm:text-base">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
               enim ad minim veniam, quis nostrud exercitation ullamco laboris
@@ -24,10 +24,10 @@ const Information = () => {
           </div>
           <div className="flex flex-row gap-8">
             <h1 className="font-bold text-xl w-1/2">PRODUCT CARE</h1>
-            <ol className="w-1/2">
-              <li>Hand wash using cold water.</li>
-              <li>Do not using bleach.</li>
-              <li>Iron on low temperature.</li>
+            <ol className="w-1/2 text-sm sm:text-base">
+              <li className='text-sm sm:text-base'>Hand wash using cold water.</li>
+              <li className='text-sm sm:text-base'>Do not using bleach.</li>
+              <li className='text-sm sm:text-base'>Iron on low temperature.</li>
             </ol>
           </div>
         </div>
