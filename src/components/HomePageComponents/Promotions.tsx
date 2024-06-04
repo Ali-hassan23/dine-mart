@@ -28,7 +28,7 @@ const Promotions = () => {
             <h1 className="font-bold text-4xl mb-4">Get Upto 30% off</h1>
             <p>USE PROMO CODE</p>
             <div className="bg-slate-400 rounded-xl w-1/2">
-              <p className="py-2">DINEMARTWEEKENDSALE</p>
+              <p className="py-2 text-xs sm:text-base">DINEMARTWEEKENDSALE</p>
             </div>
           </div>
         </div>
