@@ -57,7 +57,7 @@ const Footer = () => {
             Design by.{" "}
             <span className="font-bold text-gray-600">Wayne Enterprises</span>
           </p>
-          <p>
+          <p className="pb-3">
             Code by{" "}
             <Link
               className="font-bold text-gray-600"

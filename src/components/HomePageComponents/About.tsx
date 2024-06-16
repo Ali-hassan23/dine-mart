@@ -9,14 +9,14 @@ const About = () => {
         <h1 className="sm:text-5xl text-right font-bold text-3xl pr-4">
           Unique And Authentic <br /> Vintage Designer Jewellery
         </h1>
-        <div className="bg-gray-100 p-10">
+        <div className="bg-gray-100 px-10 py-6">
           <h1 className="absolute z-0 w-40 text-gray-300 text-wrap sm:text-8xl text-6xl opacity-35">
             Differet From Others
           </h1>
           <div className="max-w-6xl mx-auto z-10">
             <div className="flex flex-col gap-7 sm:flex-row sm:justify-between my-8 items-center">
               <div className="flex flex-row sm:flex-col sm:gap-5 gap-2">
-                <div className="w-48 pl-2">
+                <div className="w-48 ml-5 sm:ml-0 pl-2">
                   <h1 className="font-bold text-xl">
                     Using Good Quality Materials
                   </h1>
@@ -25,14 +25,14 @@ const About = () => {
                   </p>
                 </div>
                 <div className="w-48">
-                  <h1 className="font-bold text-xl">100% Handmade Products</h1>
+                  <h1 className="font-bold sm:ml-0 text-xl">100% Handmade Products</h1>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
                 </div>
               </div>
               <div className="flex flex-row sm:flex-col sm:gap-5 gap-2">
-                <div className="w-48 pl-2">
+                <div className="w-48 ml-5 pl-2">
                   <h1 className="font-bold sm:text-xl text-lg">Modern Fashion Design</h1>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
