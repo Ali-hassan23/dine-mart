@@ -15,7 +15,7 @@ const Newsletter = () => {
             placeholder="Enter Email Here"
             className="bg-white text-black border border-slate-600 focus:outline-none w-72 py-2 pb-2 px-2 mr-3"
           />
-          <button className="bg-gray-800 text-white p-2 hover:scale-105 transition-transform">
+          <button className="bg-gray-800 text-white p-2 hover:scale-105 transition-transform mt-4 sm:mt-0">
             Get Started
           </button>
         </form>
